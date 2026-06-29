@@ -1,16 +1,13 @@
-## Hi there 👋
+<h3 align="center">Attention Is All You Need</h3>
+<img align="right" alt="Coding" width="400" src="giff.gif">
 
-<!--
-**Sundasay2004/Sundasay2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://twitter.com/kamranullahafaq" target="blank"><img src="https://img.shields.io/twitter/follow/kamranullahafaq?logo=twitter&style=for-the-badge" alt="kamranullahafaq" /></a> </p>
 
-Here are some ideas to get you started:
+- 🔭 AI model researcher & mathematical problem solver. I explore the theory behind learning algorithms, optimize models with mathematical rigor, and craft elegant solutions to complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kamranullahafaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamranullahafaq" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kamranullahafaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamranullahafaq" height="30" width="40" /></a>
+</p>
