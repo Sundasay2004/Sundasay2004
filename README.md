@@ -1,7 +1,7 @@
 
 <h1 align="center">Attention Is All You Need</h1>
 
-<img align="right" alt="Coding" width="100" src="giff.gif">
+<img align="right" alt="Coding" width="280" src="giff.gif">
 
 <p align="left">
   <a href="mailto:sundasmalik2004@gmail.com" title="sundasmalik2004@gmail.com">
