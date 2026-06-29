@@ -10,6 +10,8 @@
 </p>
 
 ## 👋 About Me
+
+-------
 🎓 **Data Science & AI Learner**
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 📊 I enjoy cleaning, formatting, analyzing, visualizing, and forecasting data.
