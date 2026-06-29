@@ -10,8 +10,6 @@
 </p>
 
 ## 👋 About Me
-
--------
 🎓 **Data Science & AI Learner**
 - 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 📊 I enjoy cleaning, formatting, analyzing, visualizing, and forecasting data.
@@ -20,9 +18,7 @@
 - 💡 Always exploring new technologies and solving real-world problems with data.
 
 ---
-
 ## 🚀 Interests
-
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
